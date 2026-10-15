@@ -455,7 +455,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/kaditang/stockwaves-skills.git",
-        "sha": "e47117e500c3d6b18063760fe7fc564d88045557"
+        "sha": "c9a88ce36644344e6f676357b0ebe87f8b3b020d"
       },
       "homepage": "https://stockwaves.net",
       "keywords": ["stockwaves", "stockwaves xstock check", "stockwaves tokenized stock check"],
