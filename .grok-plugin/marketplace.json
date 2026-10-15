@@ -447,6 +447,19 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "stockwaves-xstock-check",
+      "description": "Pre-trade check for tokenized US stocks (xStocks, Ondo, Coinbase B20) before an agent buys one: real issuer token or impersonator, fair value net of the dividend share multiplier, market hours, liquidity, freeze authority. Skills only, no hooks or scripts; free verdict, full signals $0.03 over x402.",
+      "category": "security",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kaditang/stockwaves-skills.git",
+        "sha": "e47117e500c3d6b18063760fe7fc564d88045557"
+      },
+      "homepage": "https://stockwaves.net",
+      "keywords": ["stockwaves", "stockwaves xstock check", "stockwaves tokenized stock check"],
+      "domains": ["stockwaves.net"]
     }
   ]
 }
